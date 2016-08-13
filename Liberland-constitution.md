@@ -49,7 +49,6 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.1(1)** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
   * **§IV.1(2)** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
   * **§IV.1(3)** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-quarter of the overall number of Assembly Representatives.
-  * **§IV.1(4)** The Assembly shall not be dissolved, nor shall its session be interrupted, by any other body of the Public Administration.
 * **§IV.2.** The Assembly shall consist of twenty Assembly Representatives.
   * **§IV.2(1)** The Assembly Representatives shall not receive any remuneration for their service other than compensation for expenses incurred in their official capacity.
   * **§IV.2(2)** No Person shall hold the office of an Assembly Representative whilst holding any other public office within the executive or judicial branch of the Public Administration concurrently.
